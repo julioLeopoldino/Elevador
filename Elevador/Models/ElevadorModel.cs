@@ -27,6 +27,7 @@ namespace Elevador.Models
         public void Menu()
         {
             Console.WriteLine("Qual andar você deseja ir?");
+            Console.WriteLine("0 - Terreo");
             Console.WriteLine("1 - Primeiro andar");
             Console.WriteLine("2 - Segundo andar");
             Console.WriteLine("3 - Terceiro andar");
